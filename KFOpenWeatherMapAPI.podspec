@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   s.requires_arc = true
 
-  s.dependency 'JSONModel', '~> 0.9.1'
+  s.dependency 'JSONModel', '~> 0.13'
   s.dependency 'AFNetworking', '~> 1.0'
 
 end
